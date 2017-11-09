@@ -1,2 +1,2 @@
 # helloworld
-first repository
+Test repository to store future projects and ideas
